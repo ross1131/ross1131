@@ -1,4 +1,4 @@
-👋 Hi there, my name is Ross, I'm a level 1️⃣ Git user on the road to becoming a Git 🥷
+👋 Hi there, my name is Ross, I'm a level 1️⃣ Git user, on the road to becoming a Git 🥷
 
 <!--
 **ross1131/ross1131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
