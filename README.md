@@ -1,3 +1,4 @@
+<img width="447" height="612" alt="Tiger" src="https://github.com/user-attachments/assets/2f5d0694-a896-4222-881d-ef6bf35759e1" />
 
 👋 Hi there, my name is Ross, I'm a level 1️⃣ Git user, on the road to becoming a Git 🥷
 
